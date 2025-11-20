@@ -1,0 +1,15 @@
+# Environnements virtuels
+.venv/
+venv/
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Données volumineuses (optionnel, si tu ne veux pas les mettre)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.zip

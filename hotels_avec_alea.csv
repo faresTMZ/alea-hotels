@@ -1,0 +1,201 @@
+Hotel_ID,Hotel_name,region,type_loca,Latitude,Longitude,geometry,ALEA,NIVEAU
+HOTEL_001,Cottage Fields,Auvergne-Rhône-Alpes,campagne,46.1333,5.555,POINT (5.555 46.1333),Faible,1.0
+HOTEL_002,The Old Barn Inn,Hauts-de-France,campagne,49.5,3.3333,POINT (3.3333 49.5),Fort,3.0
+HOTEL_003,Cottage Fields,Auvergne-Rhône-Alpes,campagne,46.3333,3.1667,POINT (3.1667 46.3333),Moyen,2.0
+HOTEL_004,Hillside Haven,Provence-Alpes-Côte d'Azur,montagne,44.1,6.2333,POINT (6.2333 44.1),Fort,3.0
+HOTEL_005,Eagle's Nest Inn,Provence-Alpes-Côte d'Azur,montagne,44.6667,6.3333,POINT (6.3333 44.6667),Faible,1.0
+HOTEL_006,Sandy Shores,Provence-Alpes-Côte d'Azur,mer,43.9333,7.1833,POINT (7.1833 43.9333),Moyen,2.0
+HOTEL_007,Waterside Lodge,Auvergne-Rhône-Alpes,rivière,44.75,4.5,POINT (4.5 44.75),Moyen,2.0
+HOTEL_008,Hotel Standard,Grand Est,forêt,49.75,4.75,POINT (4.75 49.75),Faible,1.0
+HOTEL_009,Mountain Lodge,Occitanie,montagne,43.0,1.6667,POINT (1.6667 43),Fort,3.0
+HOTEL_010,Hillside Homestead,Grand Est,campagne,48.3333,4.1667,POINT (4.1667 48.3333),,
+HOTEL_011,Coral Sands,Occitanie,mer,43.0833,2.4167,POINT (2.4167 43.0833),Fort,3.0
+HOTEL_012,Hillside Homestead,Occitanie,campagne,44.2833,2.5333,POINT (2.5333 44.2833),,
+HOTEL_013,Lagoon Inn,Provence-Alpes-Côte d'Azur,mer,43.5167,5.45,POINT (5.45 43.5167),Fort,3.0
+HOTEL_014,Urban Escape,Normandie,ville,49.1829,-0.3707,POINT (-0.3707 49.1829),Faible,1.0
+HOTEL_015,Pulse Place,Auvergne-Rhône-Alpes,ville,44.9266,2.4399,POINT (2.4399 44.9266),Moyen,2.0
+HOTEL_016,Urbana Hotel,Nouvelle-Aquitaine,ville,45.6484,0.1562,POINT (0.1562 45.6484),Moyen,2.0
+HOTEL_017,The Hub Hotel,Nouvelle-Aquitaine,ville,46.1603,-1.1511,POINT (-1.1511 46.1603),Fort,3.0
+HOTEL_018,Central Station Hotel,Centre-Val de Loire,ville,47.081,2.3988,POINT (2.3988 47.081),,
+HOTEL_019,City Garden Inn,Nouvelle-Aquitaine,ville,45.1578,1.5337,POINT (1.5337 45.1578),Moyen,2.0
+HOTEL_020,Downtown Stay,Corse,ville,41.9192,8.7386,POINT (8.7386 41.9192),,
+HOTEL_021,Grand Hotel,Corse,ville,42.7028,9.4509,POINT (9.4509 42.7028),Faible,1.0
+HOTEL_022,Urban Retreat,Bourgogne-Franche-Comté,ville,47.322,5.0415,POINT (5.0415 47.322),,
+HOTEL_023,Urbana Hotel,Bretagne,ville,48.5144,-2.7653,POINT (-2.7653 48.5144),,
+HOTEL_024,Grand Hotel,Nouvelle-Aquitaine,ville,46.1705,1.8708,POINT (1.8708 46.1705),,
+HOTEL_025,The Pavilion,Nouvelle-Aquitaine,ville,45.184,0.721,POINT (0.721 45.184),Moyen,2.0
+HOTEL_026,Capital Comfort,Bourgogne-Franche-Comté,ville,47.2378,6.0241,POINT (6.0241 47.2378),Faible,1.0
+HOTEL_027,City Life Lodge,Auvergne-Rhône-Alpes,ville,44.9334,4.8924,POINT (4.8924 44.9334),Faible,1.0
+HOTEL_028,Capital Comfort,Normandie,ville,49.0241,1.1508,POINT (1.1508 49.0241),Faible,1.0
+HOTEL_029,Pulse Place,Centre-Val de Loire,ville,48.4469,1.4897,POINT (1.4897 48.4469),Moyen,2.0
+HOTEL_030,The Pavilion,Bretagne,ville,48.3904,-4.4861,POINT (-4.4861 48.3904),,
+HOTEL_031,City Center Hotel,Occitanie,ville,43.8367,4.3601,POINT (4.3601 43.8367),Moyen,2.0
+HOTEL_032,City Garden Inn,Occitanie,ville,43.6045,1.4442,POINT (1.4442 43.6045),Moyen,2.0
+HOTEL_033,Central Plaza Inn,Occitanie,ville,43.6463,0.5864,POINT (0.5864 43.6463),Fort,3.0
+HOTEL_034,The Hub Hotel,Nouvelle-Aquitaine,ville,44.8378,-0.5792,POINT (-0.5792 44.8378),Fort,3.0
+HOTEL_035,Metro Lodge,Occitanie,ville,43.6119,3.8772,POINT (3.8772 43.6119),Moyen,2.0
+HOTEL_036,City Garden Inn,Bretagne,ville,48.1173,-1.6778,POINT (-1.6778 48.1173),,
+HOTEL_037,Squarepoint Suites,Centre-Val de Loire,ville,46.8106,1.6921,POINT (1.6921 46.8106),Moyen,2.0
+HOTEL_038,Downtown Stay,Centre-Val de Loire,ville,47.3941,0.6848,POINT (0.6848 47.3941),Moyen,2.0
+HOTEL_039,Centerplace Inn,Auvergne-Rhône-Alpes,ville,45.1885,5.7245,POINT (5.7245 45.1885),Faible,1.0
+HOTEL_040,Urban Oasis,Bourgogne-Franche-Comté,ville,46.6753,5.5548,POINT (5.5548 46.6753),Moyen,2.0
+HOTEL_041,Salt Air Lodge,Nouvelle-Aquitaine,mer,44.0,-1.0833,POINT (-1.0833 44),,
+HOTEL_042,Cottage Fields,Centre-Val de Loire,campagne,47.5833,1.3333,POINT (1.3333 47.5833),Faible,1.0
+HOTEL_043,Snowcap Suites,Auvergne-Rhône-Alpes,montagne,45.75,4.5,POINT (4.5 45.75),,
+HOTEL_044,Alpine Ascent,Auvergne-Rhône-Alpes,montagne,45.0833,3.9167,POINT (3.9167 45.0833),,
+HOTEL_045,Bayside Retreat,Pays de la Loire,mer,47.2833,-1.5333,POINT (-1.5333 47.2833),Faible,1.0
+HOTEL_046,Rustic Trails,Centre-Val de Loire,campagne,47.9167,2.1667,POINT (2.1667 47.9167),Moyen,2.0
+HOTEL_047,Driftwood Haven,Occitanie,rivière,44.6667,1.6667,POINT (1.6667 44.6667),Moyen,2.0
+HOTEL_048,Flowing Waters,Nouvelle-Aquitaine,rivière,44.5,0.5,POINT (0.5 44.5),Fort,3.0
+HOTEL_049,Timberline Haven,Occitanie,montagne,44.5167,3.5,POINT (3.5 44.5167),Moyen,2.0
+HOTEL_050,Countryside Escape,Pays de la Loire,campagne,47.5,-0.5,POINT (-0.5 47.5),Fort,3.0
+HOTEL_051,Coastline Comfort,Normandie,mer,49.0833,-1.4167,POINT (-1.4167 49.0833),Moyen,2.0
+HOTEL_052,The Grain House,Grand Est,campagne,49.0,4.0,POINT (4 49),Fort,3.0
+HOTEL_053,Rural Hideaway,Grand Est,campagne,48.1667,5.3333,POINT (5.3333 48.1667),Faible,1.0
+HOTEL_054,Farmland Lodge,Pays de la Loire,campagne,48.1667,-0.6667,POINT (-0.6667 48.1667),,
+HOTEL_055,Downtown Stay,Grand Est,ville,48.6667,6.1667,POINT (6.1667 48.6667),Fort,3.0
+HOTEL_056,Swiftwater Inn,Grand Est,rivière,49.0,5.3333,POINT (5.3333 49),,
+HOTEL_057,Seashell Suites,Bretagne,mer,47.8,-3.1667,POINT (-3.1667 47.8),Faible,1.0
+HOTEL_058,Rustic Trails,Grand Est,campagne,49.1667,6.1667,POINT (6.1667 49.1667),Faible,1.0
+HOTEL_059,Countryside Escape,Bourgogne-Franche-Comté,campagne,47.0,3.5,POINT (3.5 47),Moyen,2.0
+HOTEL_060,Cosmopolitan Lodge,Hauts-de-France,ville,50.65,3.0833,POINT (3.0833 50.65),Moyen,2.0
+HOTEL_061,Sunlit Fields,Hauts-de-France,campagne,49.4167,2.3333,POINT (2.3333 49.4167),Moyen,2.0
+HOTEL_062,Country Meadows Inn,Normandie,campagne,48.5,-0.0833,POINT (-0.0833 48.5),,
+HOTEL_063,Beachwalk Lodge,Hauts-de-France,mer,50.5,2.25,POINT (2.25 50.5),Faible,1.0
+HOTEL_064,Alpine Retreat,Auvergne-Rhône-Alpes,montagne,45.75,3.0833,POINT (3.0833 45.75),Fort,3.0
+HOTEL_065,Highland Hideaway,Nouvelle-Aquitaine,montagne,43.3333,-0.4167,POINT (-0.4167 43.3333),Faible,1.0
+HOTEL_066,Wildwood Lodge,Occitanie,montagne,43.0833,0.0833,POINT (0.0833 43.0833),,
+HOTEL_067,Seacliff Inn,Occitanie,mer,42.6667,2.6667,POINT (2.6667 42.6667),Faible,1.0
+HOTEL_068,City Life Lodge,Grand Est,ville,48.6667,7.6667,POINT (7.6667 48.6667),Moyen,2.0
+HOTEL_069,Countryside Retreat,Grand Est,campagne,47.75,7.3333,POINT (7.3333 47.75),Moyen,2.0
+HOTEL_070,Squarepoint Suites,Auvergne-Rhône-Alpes,ville,45.75,4.8333,POINT (4.8333 45.75),Faible,1.0
+HOTEL_071,Fieldstone Lodge,Bourgogne-Franche-Comté,campagne,47.6667,6.1667,POINT (6.1667 47.6667),Moyen,2.0
+HOTEL_072,The Old Barn Inn,Bourgogne-Franche-Comté,campagne,46.7667,4.5,POINT (4.5 46.7667),Faible,1.0
+HOTEL_073,Fieldstone Lodge,Pays de la Loire,campagne,47.9833,0.2,POINT (0.2 47.9833),Faible,1.0
+HOTEL_074,Forest Glade Lodge,Auvergne-Rhône-Alpes,montagne,45.5667,6.3333,POINT (6.3333 45.5667),Moyen,2.0
+HOTEL_075,Trailhead Lodge,Auvergne-Rhône-Alpes,montagne,46.0833,6.5667,POINT (6.5667 46.0833),Faible,1.0
+HOTEL_076,The Pavilion,Île-de-France,ville,48.8566,2.3522,POINT (2.3522 48.8566),,
+HOTEL_077,Oceanfront Oasis,Normandie,mer,49.5,0.3333,POINT (0.3333 49.5),Faible,1.0
+HOTEL_078,The Pavilion,Île-de-France,ville,48.87609,2.336414,POINT (2.336414 48.87609),,
+HOTEL_079,Urban Oasis,Île-de-France,ville,48.842347,2.388184,POINT (2.388184 48.842347),,
+HOTEL_080,Skyline Haven,Île-de-France,ville,48.832322,2.337274,POINT (2.337274 48.832322),,
+HOTEL_081,Central Plaza Inn,Île-de-France,ville,48.906124,2.368277,POINT (2.368277 48.906124),Moyen,2.0
+HOTEL_082,Squarepoint Suites,Île-de-France,ville,48.833473,2.330192,POINT (2.330192 48.833473),,
+HOTEL_083,Squarepoint Suites,Île-de-France,ville,48.8333,2.8333,POINT (2.8333 48.8333),Moyen,2.0
+HOTEL_084,Cityscape Suites,Île-de-France,ville,48.75,1.95,POINT (1.95 48.75),Fort,3.0
+HOTEL_085,Parkside Suites,Nouvelle-Aquitaine,ville,46.3237,-0.4588,POINT (-0.4588 46.3237),,
+HOTEL_086,Cityscape Suites,Hauts-de-France,ville,49.895,2.3026,POINT (2.3026 49.895),,
+HOTEL_087,City Center Hotel,Occitanie,ville,43.9298,2.148,POINT (2.148 43.9298),Moyen,2.0
+HOTEL_088,Starlight Suites,Occitanie,ville,44.0174,1.3554,POINT (1.3554 44.0174),Moyen,2.0
+HOTEL_089,Urban Vibe Inn,Provence-Alpes-Côte d'Azur,ville,43.1258,5.9306,POINT (5.9306 43.1258),Moyen,2.0
+HOTEL_090,The Hub Hotel,Provence-Alpes-Côte d'Azur,ville,43.9493,4.8055,POINT (4.8055 43.9493),Moyen,2.0
+HOTEL_091,The Pavilion,Pays de la Loire,ville,46.6696,-1.4264,POINT (-1.4264 46.6696),Faible,1.0
+HOTEL_092,Metropolitan Inn,Nouvelle-Aquitaine,ville,46.5802,0.3404,POINT (0.3404 46.5802),Moyen,2.0
+HOTEL_093,Cosmopolitan Lodge,Nouvelle-Aquitaine,ville,45.8315,1.2578,POINT (1.2578 45.8315),,
+HOTEL_094,Grand Hotel,Grand Est,ville,48.174,6.4497,POINT (6.4497 48.174),Faible,1.0
+HOTEL_095,Metropolitan Inn,Bourgogne-Franche-Comté,ville,47.7982,3.5737,POINT (3.5737 47.7982),Faible,1.0
+HOTEL_096,Centerplace Inn,Bourgogne-Franche-Comté,ville,47.6333,6.8667,POINT (6.8667 47.6333),,
+HOTEL_097,City Life Lodge,Île-de-France,ville,48.5,2.25,POINT (2.25 48.5),,
+HOTEL_098,City Garden Inn,Île-de-France,ville,48.8,2.2667,POINT (2.2667 48.8),Fort,3.0
+HOTEL_099,Urban Retreat,Île-de-France,ville,48.9167,2.4167,POINT (2.4167 48.9167),Moyen,2.0
+HOTEL_100,Centerplace Inn,Île-de-France,ville,48.7833,2.4667,POINT (2.4667 48.7833),Fort,3.0
+HOTEL_101,Central Views Inn,Île-de-France,ville,49.05,2.2167,POINT (2.2167 49.05),Fort,3.0
+HOTEL_102,Coastal Pearl,Guadeloupe,DOM-TOM,16.265,-61.55,POINT (-61.55 16.265),,
+HOTEL_103,Blue Lagoon Inn,Guyane,DOM-TOM,4.9333,-52.3333,POINT (-52.3333 4.9333),,
+HOTEL_104,Lagoon Suites,Mayotte,DOM-TOM,-12.8333,45.1667,POINT (45.1667 -12.8333),,
+HOTEL_105,Oceanside Haven,Provence-Alpes-Côte d'Azur,mer,43.7102,7.262,POINT (7.262 43.7102),Moyen,2.0
+HOTEL_106,Coastal Retreat,Provence-Alpes-Côte d'Azur,mer,43.7,7.311,POINT (7.311 43.7),,
+HOTEL_107,Driftwood Inn,Provence-Alpes-Côte d'Azur,mer,43.5528,7.0174,POINT (7.0174 43.5528),Moyen,2.0
+HOTEL_108,Valley Vista Lodge,Provence-Alpes-Côte d'Azur,montagne,43.6601,6.926,POINT (6.926 43.6601),Fort,3.0
+HOTEL_109,Cityscape Suites,Nouvelle-Aquitaine,ville,44.8378,-0.5792,POINT (-0.5792 44.8378),Fort,3.0
+HOTEL_110,Maritime Lodge,Nouvelle-Aquitaine,mer,43.4832,-1.5586,POINT (-1.5586 43.4832),Moyen,2.0
+HOTEL_111,Harbor Haven,Provence-Alpes-Côte d'Azur,mer,43.4233,6.768,POINT (6.768 43.4233),Moyen,2.0
+HOTEL_112,Urbana Hotel,Hauts-de-France,ville,50.6292,3.0573,POINT (3.0573 50.6292),Faible,1.0
+HOTEL_113,Oceanfront Oasis,Hauts-de-France,mer,51.0344,2.3768,POINT (2.3768 51.0344),,
+HOTEL_114,Bayside Retreat,Provence-Alpes-Côte d'Azur,mer,43.2965,5.3698,POINT (5.3698 43.2965),Fort,3.0
+HOTEL_115,Sandy Shores,Provence-Alpes-Côte d'Azur,mer,43.2823,5.3912,POINT (5.3912 43.2823),Fort,3.0
+HOTEL_116,Pulse Place,Auvergne-Rhône-Alpes,ville,45.75,4.85,POINT (4.85 45.75),Faible,1.0
+HOTEL_117,Capital Comfort,Centre-Val de Loire,ville,47.3941,0.6848,POINT (0.6848 47.3941),Moyen,2.0
+HOTEL_118,The Hub Hotel,Bretagne,ville,48.1173,-1.6778,POINT (-1.6778 48.1173),,
+HOTEL_119,Grand Hotel,Normandie,ville,49.4432,1.0993,POINT (1.0993 49.4432),Faible,1.0
+HOTEL_120,Coral Cove,La Réunion,DOM-TOM,-21.2435,55.6845,POINT (55.6845 -21.2435),,
+HOTEL_121,Tropical Haven,La Réunion,DOM-TOM,-21.0678,55.2224,POINT (55.2224 -21.0678),,
+HOTEL_122,Mountain Peak Inn,Auvergne-Rhône-Alpes,montagne,45.9237,6.8694,POINT (6.8694 45.9237),Faible,1.0
+HOTEL_123,Pinecone Lodge,Auvergne-Rhône-Alpes,montagne,45.8578,6.6169,POINT (6.6169 45.8578),Faible,1.0
+HOTEL_124,Timberline Haven,Auvergne-Rhône-Alpes,montagne,45.4152,6.6344,POINT (6.6344 45.4152),Faible,1.0
+HOTEL_125,Rockridge Inn,Auvergne-Rhône-Alpes,montagne,45.5728,6.7797,POINT (6.7797 45.5728),Faible,1.0
+HOTEL_126,Mountainview Chalet,Auvergne-Rhône-Alpes,montagne,45.4696,6.9052,POINT (6.9052 45.4696),Faible,1.0
+HOTEL_127,Mountainview Chalet,Auvergne-Rhône-Alpes,montagne,45.45,6.9796,POINT (6.9796 45.45),Faible,1.0
+HOTEL_128,Highland Hotel,Auvergne-Rhône-Alpes,montagne,45.5078,6.6778,POINT (6.6778 45.5078),Faible,1.0
+HOTEL_129,Valley Vista Lodge,Auvergne-Rhône-Alpes,montagne,45.0156,6.1212,POINT (6.1212 45.0156),Faible,1.0
+HOTEL_130,Summit Sanctuary,Auvergne-Rhône-Alpes,montagne,45.09,6.0683,POINT (6.0683 45.09),Faible,1.0
+HOTEL_131,Wildwood Lodge,Provence-Alpes-Côte d'Azur,montagne,44.9483,6.565,POINT (6.565 44.9483),Faible,1.0
+HOTEL_132,Summit Stay,Auvergne-Rhône-Alpes,montagne,46.157,6.669,POINT (6.669 46.157),Faible,1.0
+HOTEL_133,Forest Glade Lodge,Auvergne-Rhône-Alpes,montagne,46.18,6.7048,POINT (6.7048 46.18),Faible,1.0
+HOTEL_134,Ridgeview Inn,Auvergne-Rhône-Alpes,montagne,45.2979,6.58,POINT (6.58 45.2979),Faible,1.0
+HOTEL_135,Mountain Lodge,Occitanie,montagne,42.8168,0.3284,POINT (0.3284 42.8168),Faible,1.0
+HOTEL_136,Evergreen Haven,Occitanie,montagne,42.9155,0.1743,POINT (0.1743 42.9155),,
+HOTEL_137,Whispering Pines Lodge,Occitanie,montagne,42.9575,-0.3275,POINT (-0.3275 42.9575),Moyen,2.0
+HOTEL_138,Alpine Retreat,Occitanie,montagne,42.5734,2.0748,POINT (2.0748 42.5734),Moyen,2.0
+HOTEL_139,Alpine Ascent,Auvergne-Rhône-Alpes,montagne,45.3233,6.538,POINT (6.538 45.3233),Faible,1.0
+HOTEL_140,Alpine Retreat,Provence-Alpes-Côte d'Azur,montagne,44.8167,6.5,POINT (6.5 44.8167),Faible,1.0
+HOTEL_141,The Peak Retreat,Bourgogne-Franche-Comté,montagne,46.3664,5.85,POINT (5.85 46.3664),,
+HOTEL_142,Rockridge Inn,Bourgogne-Franche-Comté,montagne,46.3131,5.8038,POINT (5.8038 46.3131),,
+HOTEL_143,Summit Stay,Bourgogne-Franche-Comté,montagne,46.5253,5.8411,POINT (5.8411 46.5253),Moyen,2.0
+HOTEL_144,Crestview Chalet,Bourgogne-Franche-Comté,montagne,46.5739,5.9723,POINT (5.9723 46.5739),Moyen,2.0
+HOTEL_145,Mountain Lodge,Grand Est,montagne,47.9997,6.8753,POINT (6.8753 47.9997),,
+HOTEL_146,Forest Glade Lodge,Grand Est,montagne,48.069,6.8778,POINT (6.8778 48.069),Faible,1.0
+HOTEL_147,City Big Center Hotel,Grand Est,ville,48.5734,7.7521,POINT (7.7521 48.5734),Faible,1.0
+HOTEL_148,City South Center Hotel,Grand Est,ville,48.585,7.7485,POINT (7.7485 48.585),Faible,1.0
+HOTEL_149,Bay Breeze Inn,Auvergne-Rhône-Alpes,lac,45.8992,6.1296,POINT (6.1296 45.8992),Moyen,2.0
+HOTEL_150,Stillwater Lodge,Auvergne-Rhône-Alpes,lac,46.4011,6.5906,POINT (6.5906 46.4011),Faible,1.0
+HOTEL_151,Sunset Sands,Mayotte,DOM-TOM,-12.7806,45.2278,POINT (45.2278 -12.7806),,
+HOTEL_152,City Center Hotel,Normandie,ville,49.1829,-0.3707,POINT (-0.3707 49.1829),Faible,1.0
+HOTEL_153,Central Views Inn,Normandie,ville,49.1839,-0.3574,POINT (-0.3574 49.1839),Faible,1.0
+HOTEL_154,Hotel Standard,Normandie,plage,49.3583,0.0796,POINT (0.0796 49.3583),Faible,1.0
+HOTEL_155,Driftwood Inn,Normandie,mer,49.7068,0.2048,POINT (0.2048 49.7068),Faible,1.0
+HOTEL_156,Grand Hotel,Centre-Val de Loire,ville,47.4136,0.9872,POINT (0.9872 47.4136),Moyen,2.0
+HOTEL_157,Cityscape Suites,Provence-Alpes-Côte d'Azur,ville,43.9197,5.0528,POINT (5.0528 43.9197),Moyen,2.0
+HOTEL_158,Seaside Serenity,Occitanie,mer,42.5263,3.0838,POINT (3.0838 42.5263),Faible,1.0
+HOTEL_159,Starlight Suites,Provence-Alpes-Côte d'Azur,ville,43.9115,5.2001,POINT (5.2001 43.9115),Fort,3.0
+HOTEL_160,Central Plaza Inn,Nouvelle-Aquitaine,ville,44.8883,1.2167,POINT (1.2167 44.8883),,
+HOTEL_161,The Hub Hotel,Grand Est,ville,48.1665,7.2971,POINT (7.2971 48.1665),Moyen,2.0
+HOTEL_162,Cityscape Suites,Bourgogne-Franche-Comté,ville,46.7819,4.853,POINT (4.853 46.7819),Moyen,2.0
+HOTEL_163,The District Hotel,Nouvelle-Aquitaine,ville,45.1593,1.5339,POINT (1.5339 45.1593),Moyen,2.0
+HOTEL_164,Urban Oasis,Bourgogne-Franche-Comté,ville,47.0253,4.8394,POINT (4.8394 47.0253),Moyen,2.0
+HOTEL_165,Urbana Hotel,Occitanie,ville,44.5997,2.3983,POINT (2.3983 44.5997),,
+HOTEL_166,Maritime Lodge,Provence-Alpes-Côte d'Azur,mer,43.7277,7.3614,POINT (7.3614 43.7277),Moyen,2.0
+HOTEL_167,Central Station Hotel,Auvergne-Rhône-Alpes,ville,45.9019,5.1813,POINT (5.1813 45.9019),Moyen,2.0
+HOTEL_168,Urban Retreat,Grand Est,ville,48.0436,7.3054,POINT (7.3054 48.0436),Moyen,2.0
+HOTEL_169,Urban Vibe Inn,Grand Est,ville,48.1395,7.2638,POINT (7.2638 48.1395),Faible,1.0
+HOTEL_170,Downtown Stay,Occitanie,ville,44.7973,1.6176,POINT (1.6176 44.7973),Moyen,2.0
+HOTEL_171,Beachwalk Lodge,Normandie,mer,49.4194,0.2328,POINT (0.2328 49.4194),Faible,1.0
+HOTEL_172,Urbana Hotel,Nouvelle-Aquitaine,ville,44.6828,0.8933,POINT (0.8933 44.6828),,
+HOTEL_173,City Life Lodge,Pays de la Loire,ville,47.0869,-1.2804,POINT (-1.2804 47.0869),Faible,1.0
+HOTEL_174,Cityscape Suites,Bourgogne-Franche-Comté,ville,47.4657,3.7478,POINT (3.7478 47.4657),Moyen,2.0
+HOTEL_175,Pulse Place,Occitanie,ville,44.4653,1.6691,POINT (1.6691 44.4653),Fort,3.0
+HOTEL_176,City Lights Inn,Provence-Alpes-Côte d'Azur,ville,43.8469,6.2219,POINT (6.2219 43.8469),Fort,3.0
+HOTEL_177,The Waterfall Hotel,Nouvelle-Aquitaine,rivière,44.8241,1.1848,POINT (1.1848 44.8241),,
+HOTEL_178,Central Station Hotel,Nouvelle-Aquitaine,ville,44.8025,1.2154,POINT (1.2154 44.8025),,
+HOTEL_179,Pulse Place,Normandie,ville,49.0765,1.5336,POINT (1.5336 49.0765),Faible,1.0
+HOTEL_180,Surfside Inn,Corse,mer,41.3871,9.1604,POINT (9.1604 41.3871),Faible,1.0
+HOTEL_181,Crestview Chalet,Corse,montagne,42.3064,9.1509,POINT (9.1509 42.3064),Faible,1.0
+HOTEL_182,Lighthouse Inn,Corse,mer,42.2275,8.6356,POINT (8.6356 42.2275),,
+HOTEL_183,Exotic Retreat,Martinique,DOM-TOM,14.5519,-61.0581,POINT (-61.0581 14.5519),,
+HOTEL_184,Coral Sands Lodge,Martinique,DOM-TOM,14.7425,-61.175,POINT (-61.175 14.7425),,
+HOTEL_185,Coral Sands Lodge,Guadeloupe,DOM-TOM,16.1139,-61.7745,POINT (-61.7745 16.1139),,
+HOTEL_186,Island Breeze,La Réunion,DOM-TOM,-21.0096,55.2719,POINT (55.2719 -21.0096),,
+HOTEL_187,Island Escape,Nouvelle-Calédonie,DOM-TOM,-22.2765,166.5755,POINT (166.5755 -22.2765),,
+HOTEL_188,Pacific Pearl,Nouvelle-Calédonie,DOM-TOM,-20.6901,164.9458,POINT (164.9458 -20.6901),,
+HOTEL_189,Tropical Inn,Guadeloupe,DOM-TOM,16.265,-61.55,POINT (-61.55 16.265),,
+HOTEL_190,Tropical Waters Lodge,Saint-Pierre-et-Miquelon,DOM-TOM,46.7794,-56.1764,POINT (-56.1764 46.7794),,
+HOTEL_191,Tropical Dreams,Saint-Pierre-et-Miquelon,DOM-TOM,46.8,-56.2,POINT (-56.2 46.8),,
+HOTEL_192,Pulse Place,Île-de-France,ville,48.8566,2.3522,POINT (2.3522 48.8566),,
+HOTEL_193,Central Views Inn,Auvergne-Rhône-Alpes,ville,45.764,4.8357,POINT (4.8357 45.764),Faible,1.0
+HOTEL_194,Metropolitan Inn,Provence-Alpes-Côte d'Azur,ville,43.2965,5.3698,POINT (5.3698 43.2965),Fort,3.0
+HOTEL_195,Central Views Inn,Nouvelle-Aquitaine,ville,44.8378,-0.5792,POINT (-0.5792 44.8378),Fort,3.0
+HOTEL_196,Urban Vibe Inn,Hauts-de-France,ville,50.6292,3.0573,POINT (3.0573 50.6292),Faible,1.0
+HOTEL_197,Heart of the City Inn,Occitanie,ville,43.6047,1.4442,POINT (1.4442 43.6047),Moyen,2.0
+HOTEL_198,Urban Vibe Inn,Occitanie,ville,43.928,2.1487,POINT (2.1487 43.928),Moyen,2.0
+HOTEL_199,Heart of the City Inn,Bretagne,ville,47.6582,-2.7608,POINT (-2.7608 47.6582),,
+HOTEL_200,Metropolitan Inn,Auvergne-Rhône-Alpes,ville,45.8992,6.1294,POINT (6.1294 45.8992),Moyen,2.0
